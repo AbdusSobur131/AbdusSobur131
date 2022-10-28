@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<!--
 **AbdusSobur131/AbdusSobur131** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
