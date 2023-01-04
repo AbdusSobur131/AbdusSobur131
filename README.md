@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at [https://abdussobur131.github.io/Protfolio/](https://abdussobur131.github.io/Protfolio/)
 
-- 💬 Ask me about **HTML5,CSS3,Bootstrap,JS**
+- 💬 Ask me about **HTML5,CSS3,Bootstrap,Javascript**
 
 - 📫 How to reach me **sobur01783@gmail.com**
 
